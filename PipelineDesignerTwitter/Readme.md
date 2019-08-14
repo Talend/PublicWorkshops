@@ -1,4 +1,4 @@
 # Assests for Twitter Heatmap Pipeline Workshop
-![image] (/resources/Talend_Data%20Streams_TalendBlue.png)
+![image](./resources/Talend_Data_Streams_TalendBlue.png)
 
 
