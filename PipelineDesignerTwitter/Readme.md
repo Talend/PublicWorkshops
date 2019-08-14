@@ -1,1 +1,3 @@
-# Assests for Twitter Heatmap Pipeline
+# Assests for Twitter Heatmap Pipeline Workshop
+
+
