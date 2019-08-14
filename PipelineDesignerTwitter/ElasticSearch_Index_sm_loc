@@ -1,0 +1,32 @@
+{  
+   "settings":{  
+      "number_of_shards":1
+   },
+   "mappings":{  
+      "sm_loc":{  
+         "properties":{  
+            "latitude":{  
+               "type":"double"
+            },
+            "longitude":{  
+               "type":"double"
+            },
+            "location":{  
+               "type":"geo_point"
+            },
+            "id":{  
+               "type":"string"
+            },
+            "created_date":{  
+               "type":"string"
+            },
+            "text":{  
+               "type":"string"
+            },
+            "type":{  
+               "type":"string"
+            }
+         }
+      }
+   }
+}
