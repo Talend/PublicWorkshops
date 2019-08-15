@@ -1,9 +1,8 @@
 # ![image](./resources/Talend_PD_TalendBlues_SM.png) Assests for Twitter Heatmap Pipeline Workshop
 
 
-
-###Instructions
-The files are the code that you need to copy and paste into the different parts of the Pipeline Designer that you will find in the workbook exersize.
+### Instructions
+You can either copy and paste from this main page or use the files for the different parts of the Pipeline Designer that you will see  you need in the workbook exersize.
 
 ### - Step 7: Avro Schema
 
