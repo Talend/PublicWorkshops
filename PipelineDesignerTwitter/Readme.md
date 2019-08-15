@@ -6,7 +6,7 @@ You can either copy and paste from this main page or use the files for the diffe
 
 ### - Step 7: Avro Schema
 
-The messages sent by the producer of tweeter are formatted in Avro. The schema used is:
+The messages sent by the producer of tweeter feeds are formatted in Avro. The schema used is:
 
 ```json
 {
