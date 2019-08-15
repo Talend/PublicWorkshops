@@ -96,7 +96,7 @@ The messages sent by the producer of tweeter are formatted in Avro. The schema u
 
 ```
 
-### Step 29 Add the Python to the Pipeline
+### - Step 29: Add the Python to the Pipeline
 
 ```python
 # Here you can define your custom MAP transformations on the input
@@ -128,5 +128,41 @@ else:
     
 ```
 
-### Step - 
+### - Step 32 - 33: Create the ElasticSeach Index
+
+```json
+
+{  
+   "settings":{  
+      "number_of_shards":1
+   },
+   "mappings":{  
+      "sm_loc":{  
+         "properties":{  
+            "latitude":{  
+               "type":"double"
+            },
+            "longitude":{  
+               "type":"double"
+            },
+            "location":{  
+               "type":"geo_point"
+            },
+            "id":{  
+               "type":"string"
+            },
+            "created_date":{  
+               "type":"string"
+            },
+            "text":{  
+               "type":"string"
+            },
+            "type":{  
+               "type":"string"
+            }
+         }
+      }
+   }
+}
+```
 
