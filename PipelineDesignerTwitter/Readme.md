@@ -1,5 +1,5 @@
-# Assests for Twitter Heatmap Pipeline Workshop
-![image](./resources/Talend_PD_TalendBlue_SM.png)
+# ![image](./resources/Talend_PD_TalendBlues_SM.png) Assests for Twitter Heatmap Pipeline Workshop
+
 
 
 ###Instructions
