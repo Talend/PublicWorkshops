@@ -1,5 +1,9 @@
 # ![image](./resources/Talend_PD_TalendBlues_SM.png) Assests for Twitter Heatmap Pipeline Workshop
 
+### Pipeline Designer Trial Links
+[APAC](https://iam.ap.cloud.talend.com/idp/trial-registration?product=pipelines&period=14&utm_medium=talendcommunity&utm_source=user_group)
+[EMEA](https://iam.eu.cloud.talend.com/idp/trial-registration?product=pipelines&period=14&utm_medium=talendcommunity&utm_source=user_group)
+[US](https://iam.us.cloud.talend.com/idp/trial-registration?product=pipelines&period=14&utm_medium=talendcommunity&utm_source=user_group)
 
 ### Instructions
 You can either copy and paste from this main page or use the files for the different parts of the Pipeline Designer that you will see  you need in the workbook exersize.
